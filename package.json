@@ -35,7 +35,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Inheritance 😎",
+        "label": "Inheritance 🐱‍👤",
         "uiTheme": "vs-dark",
         "path": "./themes/inheritance-color-theme.json"
       }
