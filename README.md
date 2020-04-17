@@ -6,11 +6,7 @@
 
 # 🎨 Inheritance Theme
 
-This is the best theme for VSCODE 🐱‍👓
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/icao/electron-vue/master/assets/electron_vue.jpg" alt="logo" width="100%">
-</p>
+> 🐱‍👓 This is the best theme for VSCODE
 
 ## 🧰 Getting started
 
@@ -70,7 +66,7 @@ Ready! 😁🥳
       }
       ```
 
-## 👨🏻‍🎨 Misc
+## 👨‍🎨 Misc
 
 This palette color was inpired in [Electron Vue Theme](https://marketplace.visualstudio.com/items?itemName=icao.electron-vue) 🤩 and the project [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl&WT.mc_id=twitter-social-sdras, ) of Sarah Drasner 🥰.
 
