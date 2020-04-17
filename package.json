@@ -1,0 +1,44 @@
+{
+  "name": "inheritance",
+  "displayName": "Inheritance",
+  "description": "This is the best theme for VSCODE",
+  "version": "0.0.1",
+  "author": "César Aparicio [@icao]",
+  "publisher": "icao",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.44.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "galleryBanner": {
+    "color": "#111111",
+    "theme": "dark"
+  },
+  "keywords": [
+    "VSCode",
+    "Themes",
+    "Dark Theme",
+    "Darker Theme",
+    "Darker",
+    "Code",
+    "Accessible Theme",
+    "Hight Contrast",
+    "Inheritance"
+  ],
+  "icon": "logo-theme.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/icao/inheritance"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "icao",
+        "uiTheme": "vs-dark",
+        "path": "./themes/inheritance-color-theme.json"
+      }
+    ]
+  }
+}
