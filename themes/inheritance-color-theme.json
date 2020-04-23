@@ -1166,6 +1166,14 @@
       }
     },
     {
+      "name": "Important propertie",
+      "scope": ["keyword.other.important.scss", "keyword.other.important.css"],
+      "settings": {
+        "foreground": "#8dff8d",
+        "fontStyle": "italic bold"
+      }
+    },
+    {
       "name": "ID selector for CSS",
       "scope": "entity.other.attribute-name.id.css",
       "settings": {
@@ -1695,21 +1703,20 @@
       "settings": {
         "foreground": "#bac7e4"
       }
-	},
-	{
-		"name": "Entity Name tag reference in stylesheets SCSS / SASS",
-		"scope": "entity.name.tag.reference.scss",
-		"settings": {
-			"foreground": "#00d9ff"
-		}
-	},
+    },
+    {
+      "name": "Entity Name tag reference in stylesheets SCSS / SASS",
+      "scope": "entity.name.tag.reference.scss",
+      "settings": {
+        // "foreground": "#00d9ff"
+      }
+    },
     {
       "name": "Attribute Name for SASS",
       "scope": [
         "meta.attribute-selector.scss entity.other.attribute-name.attribute",
         "meta.attribute-selector.sass entity.other.attribute-name.attribute",
-        "source.css.scss meta.property-list.scss entity.other.attribute-name.parent-selector-suffix.css punctuation.definition.entity.css",
-        "source.css.scss meta.property-list.scss variable.scss",
+        "source.css.scss meta.property-list.scss entity.other.attribute-name.parent-selector-suffix.css punctuation.definition.entity.css"
       ],
       "settings": {
         "foreground": "#ffbf7a"
