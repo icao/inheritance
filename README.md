@@ -8,6 +8,78 @@
 
 > 🐱‍👓 This is the best theme for VSCODE
 
+<p align="center">
+  <br>
+    <img src="https://raw.githubusercontent.com/icao/inheritance/master/assets/img_001.png" alt="banner" width="100%">
+  <br>
+</p>
+
+### Built with inspiration
+
+<p align="center">
+  <br>
+    <img src="https://raw.githubusercontent.com/icao/inheritance/master/assets/img_002.png" alt="banner" width="100%">
+  <br>
+</p>
+
+### Combining harmony and exponentiating the dark mode
+
+<p align="center">
+  <br>
+    <img src="https://raw.githubusercontent.com/icao/inheritance/master/assets/img_003.png" alt="banner" width="100%">
+  <br>
+</p>
+<p align="center">
+  <br>
+    <img src="https://raw.githubusercontent.com/icao/inheritance/master/assets/img_004.png" alt="banner" width="100%">
+  <br>
+</p>
+
+### An amazing range of colors satisfying to your eyes
+
+<p align="center">
+  <br>
+    <img src="https://raw.githubusercontent.com/icao/inheritance/master/assets/img_005.png" alt="banner" width="100%">
+  <br>
+</p>
+<p align="center">
+  <br>
+    <img src="https://raw.githubusercontent.com/icao/inheritance/master/assets/img_006.png" alt="banner" width="100%">
+  <br>
+</p>
+
+### Integration with your terminal. Color compatibility with '[oh my zsh](https://github.com/ohmyzsh/ohmyzsh)' and '[oh my posh](https://github.com/JanDeDobbeleer/oh-my-posh)'
+
+<p align="center">
+  <br>
+    <img src="https://raw.githubusercontent.com/icao/inheritance/master/assets/img_007.png" alt="banner" width="100%">
+  <br>
+</p>
+<p align="center">
+  <br>
+    <img src="https://raw.githubusercontent.com/icao/inheritance/master/assets/img_008.png" alt="banner" width="100%">
+  <br>
+</p>
+
+### Perfect combination with the UI
+
+<p align="center">
+  <br>
+    <img src="https://raw.githubusercontent.com/icao/inheritance/master/assets/img_009.png" alt="banner" width="100%">
+  <br>
+</p>
+<p align="center">
+  <br>
+    <img src="https://raw.githubusercontent.com/icao/inheritance/master/assets/img_010.png" alt="banner" width="100%">
+  <br>
+</p>
+<p >
+  <br><br>
+    <h2 align="center">All this and more is Inheritance Theme</h2>
+    <h2 align="center">What are you waiting to try it, write your code with inspiration</h2>
+  <br><br>
+</p>
+
 ## 🧰 Getting started
 
 You can install this awesome and cool theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=icao.inheritance).
@@ -25,9 +97,9 @@ You can install this awesome and cool theme through the [Visual Studio Code Mark
 
 Launch *Quick Open*:
 
-  - <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl + Shift + P`
-  - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘ + Shift + P`
-  - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl + Shift + P`
+- <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl + Shift + P`
+- <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘ + Shift + P`
+- <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl + Shift + P`
 
 Type theme, choose **Preferences: Color Theme**  
 And select: **Inheritance**  
