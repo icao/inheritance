@@ -75,8 +75,7 @@
 </p>
 <p >
   <br><br>
-    <h2 align="center">All this and more is Inheritance Theme</h2>
-    <h2 align="center">What are you waiting to try it, write your code with inspiration</h2>
+    <h2 align="center">All this and more is Inheritance Theme <br> What are you waiting to try it, write your code with inspiration</h2>
   <br><br>
 </p>
 
