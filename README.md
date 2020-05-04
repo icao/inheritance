@@ -123,8 +123,12 @@ Ready! 😁🥳
           // Custom cursor
           "editor.cursorBlinking": "phase",
           "editor.cursorWidth": 4,
+          // Spaces
+          "editor.renderWhitespace": "all",
           // Controls if file decorations should use badges.
           "explorer.decorations.badges": false,
+          // Mandatory for The integration with LINUX Bar title and context menu
+          "window.titleBarStyle": "custom",
           // Material icon settings
           "material-icon-theme.folders.color": "#26A5FF",
           "material-icon-theme.folders.theme": "specific",
