@@ -109,7 +109,7 @@ Ready! 😁🥳
    2. Install the extension [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
    3. And via user settings:
 
-      ```js
+      ```json
       {
           // Controls the font family.
           "editor.fontFamily": "Operator Mono Lig",
