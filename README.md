@@ -14,7 +14,7 @@
   <br>
 </p>
 
-### Built with inspiration
+### 💙 Built with inspiration
 
 <p align="center">
   <br>
@@ -22,7 +22,7 @@
   <br>
 </p>
 
-### Combining harmony and exponentiating the dark mode
+### 💙 Combining harmony and exponentiating the dark mode
 
 <p align="center">
   <br>
@@ -35,7 +35,7 @@
   <br>
 </p>
 
-### An amazing range of colors satisfying to your eyes
+### 💙 An amazing range of colors satisfying to your eyes
 
 <p align="center">
   <br>
@@ -48,7 +48,7 @@
   <br>
 </p>
 
-### Integration with your terminal. Color compatibility with '[oh my zsh](https://github.com/ohmyzsh/ohmyzsh)' and '[oh my posh](https://github.com/JanDeDobbeleer/oh-my-posh)'
+### 💙 Integration with your terminal. 🤓 Color compatibility with '[oh my zsh](https://github.com/ohmyzsh/ohmyzsh)' and '[oh my posh](https://github.com/JanDeDobbeleer/oh-my-posh)'
 
 <p align="center">
   <br>
@@ -61,7 +61,7 @@
   <br>
 </p>
 
-### Perfect combination with the UI
+### 💙 Perfect combination with the UI
 
 <p align="center">
   <br>
@@ -73,11 +73,10 @@
     <img src="https://raw.githubusercontent.com/icao/inheritance/master/assets/img_010.png" alt="banner" width="100%">
   <br>
 </p>
-<p >
-  <br><br>
-    <h2 align="center">All this and more is Inheritance Theme <br> What are you waiting to try it, write your code with inspiration</h2>
-  <br><br>
-</p>
+
+<br><br>
+<h2 align="center">All this and more is <strong>Inheritance Theme 💙</strong> <br> What are you waiting to try it, write your code with inspiration 😁</h2>
+<br><br>
 
 ## 🧰 Getting started
 
@@ -127,7 +126,7 @@ Ready! 😁🥳
           "editor.renderWhitespace": "all",
           // Controls if file decorations should use badges.
           "explorer.decorations.badges": false,
-          // Mandatory for The integration with LINUX Bar title and context menu
+          // Mandatory  The integration with LINUX Bar title and context menu
           "window.titleBarStyle": "custom",
           // Material icon settings
           "material-icon-theme.folders.color": "#26A5FF",
