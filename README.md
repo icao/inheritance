@@ -18,7 +18,7 @@
 
 <p align="center">
   <br>
-    <img src="https://raw.githubusercontent.com/icao/inheritance/master/assets/img_002.png" alt="banner" width="100%">
+    <img src="https://raw.githubusercontent.com/icao/inheritance/master/assets/final.jpg" alt="banner" width="100%">
   <br>
 </p>
 
@@ -106,40 +106,40 @@ Ready! 😁🥳
 
 ## 🐱‍🚀 Recommended settings for a better experience
 
-1.  Install the icons [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-2.  Install the extension [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-3.  And via user settings:
+1. Install the icons [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+2. Install the extension [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+3. And via user settings:
 
-    ```json
-    {
-      // Controls the font family.
-      "editor.fontFamily": "Operator Mono Lig",
-      // Font Size
-      "editor.fontSize": 19,
-      // Controls the line height. Use 0 to compute the lineHeight from the fontSize.
-      "editor.lineHeight": 28,
-      // Enables font ligatures
-      "editor.fontLigatures": true,
-      // Custom cursor
-      "editor.cursorBlinking": "phase",
-      "editor.cursorWidth": 4,
-      // Spaces
-      "editor.renderWhitespace": "all",
-      // Controls if file decorations should use badges.
-      "explorer.decorations.badges": false,
-      // Mandatory  The integration with LINUX Bar title and context menu
-      "window.titleBarStyle": "custom",
-      // Material icon settings
-      "material-icon-theme.folders.color": "#26A5FF",
-      "material-icon-theme.folders.theme": "specific",
-      "material-icon-theme.hidesExplorerArrows": true,
-      // Custom Terminal - Optional
-      "terminal.integrated.fontSize": 16,
-      "terminal.integrated.fontWeightBold": "600",
-      "terminal.integrated.fontWeight": "300",
-      "terminal.integrated.fontFamily": "'Operator Mono Lig'" // or 'JetBrains Mono'
-    }
-    ```
+   ```json
+   {
+     // Controls the font family.
+     "editor.fontFamily": "Operator Mono Lig",
+     // Font Size
+     "editor.fontSize": 19,
+     // Controls the line height. Use 0 to compute the lineHeight from the fontSize.
+     "editor.lineHeight": 28,
+     // Enables font ligatures
+     "editor.fontLigatures": true,
+     // Custom cursor
+     "editor.cursorBlinking": "phase",
+     "editor.cursorWidth": 4,
+     // Spaces
+     "editor.renderWhitespace": "all",
+     // Controls if file decorations should use badges.
+     "explorer.decorations.badges": false,
+     // Mandatory  The integration with LINUX Bar title and context menu
+     "window.titleBarStyle": "custom",
+     // Material icon settings
+     "material-icon-theme.folders.color": "#26A5FF",
+     "material-icon-theme.folders.theme": "specific",
+     "material-icon-theme.hidesExplorerArrows": true,
+     // Custom Terminal - Optional
+     "terminal.integrated.fontSize": 16,
+     "terminal.integrated.fontWeightBold": "600",
+     "terminal.integrated.fontWeight": "300",
+     "terminal.integrated.fontFamily": "'Operator Mono Lig'" // or 'JetBrains Mono'
+   }
+   ```
 
 ## 👨‍🎨 Misc
 
