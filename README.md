@@ -50,6 +50,8 @@
 
 ### 💙 Integration with your terminal. 🤓 Color compatibility with '[oh my zsh](https://github.com/ohmyzsh/ohmyzsh)' and '[oh my posh](https://github.com/JanDeDobbeleer/oh-my-posh)'
 
+#### 🐧🍏 Oh my zsh
+
 <p align="center">
   <br>
     <img src="https://raw.githubusercontent.com/icao/inheritance/master/assets/img_007.png" alt="banner" width="100%">
@@ -58,6 +60,14 @@
 <p align="center">
   <br>
     <img src="https://raw.githubusercontent.com/icao/inheritance/master/assets/img_008.png" alt="banner" width="100%">
+  <br>
+</p>
+
+#### 🐱‍💻 Oh my posh
+
+<p align="center">
+  <br>
+    <img src="https://raw.githubusercontent.com/icao/inheritance/master/assets/img_011.png" alt="banner" width="100%">
   <br>
 </p>
 
