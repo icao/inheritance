@@ -312,8 +312,8 @@
     //"statusBarItem.prominentForeground": "#99a3b8",
     // "statusBarItem.remoteBackground": "#26A5FF",
     //"statusBarItem.remoteForeground": "#f8fafd",
-    //"tab.activeModifiedBorder": "#3399cc",
-    //"tab.inactiveModifiedBorder": "#3399cc80",
+    "tab.activeModifiedBorder": "#26A5FF", // BORDE DE TAB ARCHIVO MODIFICADO
+    "tab.inactiveModifiedBorder": "#26a5ff4f", // BORDE DE TAB ARCHIVO MODIFICADO UNFOCUS
     //"tab.unfocusedActiveModifiedBorder": "#3399cc80",
     //"tab.unfocusedInactiveModifiedBorder": "#3399cc40",
     // "textBlockQuote.background": "#7f7f7f1a",
@@ -2035,11 +2035,11 @@
     {
       "name": "Curly double brackets VUE", // {{}}, []
       "scope": [
-        "expression.embedded.vue punctuation", // LLAVES EN VUE
+        // "expression.embedded.vue punctuation", // LLAVES EN VUE
         "source.vue text.html.vue-html expression.embedded.vue meta.array.literal.js meta.brace.square.js" // Brackets vue -> {variable.hola[5]}}
       ],
       "settings": {
-        // "foreground": "#ff4579"
+        "foreground": "#ff4579"
       }
     },
     {
@@ -2071,7 +2071,8 @@
         "source.vue text.html.vue-html meta.tag.block.any.html meta.directive.vue source.directive.vue meta.brace.round.js" // () of function on directive vue
       ],
       "settings": {
-        "foreground": "#d1dfff"
+        // "foreground": "#d1dfff"
+        "foreground": "#00d9ff"
       }
     },
     {
@@ -2109,8 +2110,8 @@
         "source.vue text.html.vue-html expression.embedded.vue variable.other.object.js" // objeto dentro de la interpolacion
       ],
       "settings": {
-        "foreground": "#d1dfff",
-        "fontStyle": "italic"
+        "foreground": "#d1dfff"
+        // "fontStyle": "italic"
       }
     },
     {
@@ -2120,8 +2121,8 @@
         "source.vue text.html.vue-html expression.embedded.vue variable.other.property.js" // variable como propiedad de objeto, pone la anterior config en italica
       ],
       "settings": {
-        "foreground": "#ff4579",
-        "fontStyle": "italic"
+        "foreground": "#ff4579"
+        // "fontStyle": "italic"
       }
     },
     {
