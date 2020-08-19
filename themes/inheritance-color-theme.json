@@ -1166,6 +1166,16 @@
       }
     },
     {
+      "name": "CSS Pseudo Class",
+      "scope": [
+        "entity.other.attribute-name.pseudo-class.css",
+        "entity.other.attribute-name.pseudo-element.css"
+      ],
+      "settings": {
+        "foreground": "#c792ea"
+      }
+    },
+    {
       "name": "Important propertie",
       "scope": ["keyword.other.important.scss", "keyword.other.important.css"],
       "settings": {
