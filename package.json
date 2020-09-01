@@ -38,6 +38,16 @@
         "label": "Inheritance 🐱‍👤",
         "uiTheme": "vs-dark",
         "path": "./themes/inheritance-color-theme.json"
+      },
+      {
+        "label": "Inheritance 🐱‍👤 Focus Mode ",
+        "uiTheme": "vs-dark",
+        "path": "./themes/inheritance-color-theme-focus-mode.json"
+      },
+      {
+        "label": "Inheritance 🐱‍👤 (No Italics)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/inheritance-color-theme-no-italics.json"
       }
     ]
   }
