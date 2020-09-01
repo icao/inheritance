@@ -348,7 +348,7 @@
       "name": "Inserted",
       "scope": "markup.inserted.diff",
       "settings": {
-        "foreground": "#8dff8dff"
+        "foreground": "#8dff8d"
       }
     },
     {
@@ -363,7 +363,7 @@
         "comment.line.double-slash"
       ],
       "settings": {
-        "foreground": "#3a3e44"
+        "foreground": "#d1dfff46"
       }
     },
     {
@@ -391,8 +391,7 @@
       "name": "Number",
       "scope": ["constant.numeric", "constant.character.numeric"],
       "settings": {
-        "foreground": "#ffbf7a",
-        "fontStyle": ""
+        "foreground": "#ffbf7a"
       }
     },
     {
@@ -449,8 +448,7 @@
         "meta.class meta.method.declaration meta.var.expr storage.type.js"
       ],
       "settings": {
-        "foreground": "#de7df7",
-        "fontStyle": ""
+        "foreground": "#de7df7"
       }
     },
     {
@@ -464,16 +462,14 @@
       "name": "Storage type",
       "scope": "storage.type.function.arrow.js",
       "settings": {
-        "foreground": "#de7df7",
-        "fontStyle": ""
+        "foreground": "#de7df7"
       }
     },
     {
       "name": "Storage modifier",
       "scope": "storage.modifier",
       "settings": {
-        "foreground": "#de7df7",
-        "fontStyle": ""
+        "foreground": "#de7df7"
       }
     },
     {
@@ -501,8 +497,7 @@
       "name": "Function name",
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#7AA2F7",
-        "fontStyle": ""
+        "foreground": "#7AA2F7"
       }
     },
     {
@@ -533,15 +528,13 @@
         "meta.tag.html"
       ],
       "settings": {
-        "foreground": "#ff4579",
-        "fontStyle": ""
+        "foreground": "#ff4579"
       }
     },
     {
       "name": "Other Unrecognized HTML Tag Name",
       "scope": "meta.tag.other.unrecognized.html.derivative entity.name.tag ",
       "settings": {
-        "fontStyle": "",
         "foreground": "#bac7e4"
       }
     },
@@ -549,7 +542,6 @@
       "name": "Tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "fontStyle": "",
         "foreground": "#ffbf7a"
       }
     },
@@ -606,16 +598,14 @@
       "name": "Keyword",
       "scope": ["punctuation", "punctuation.accessor", "keyword"],
       "settings": {
-        "foreground": "#00d9ff",
-        "fontStyle": ""
+        "foreground": "#00d9ff"
       }
     },
     {
       "name": "Keyword Operator",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#00d9ff",
-        "fontStyle": ""
+        "foreground": "#00d9ff"
       }
     },
     {
@@ -745,8 +735,7 @@
       "name": "Variable Parameter Function",
       "scope": "variable.parameter.function",
       "settings": {
-        "foreground": "#00d9ff",
-        "fontStyle": ""
+        "foreground": "#00d9ff"
       }
     },
     {
@@ -758,8 +747,7 @@
         "meta.property-list entity.name.tag"
       ],
       "settings": {
-        "foreground": "#00d9ff",
-        "fontStyle": ""
+        "foreground": "#00d9ff"
       }
     },
     {
@@ -841,8 +829,7 @@
       "name": "Keyword Operator Logical",
       "scope": "keyword.operator.logical",
       "settings": {
-        "foreground": "#de7df7",
-        "fontStyle": ""
+        "foreground": "#de7df7"
       }
     },
     {
@@ -861,23 +848,19 @@
       "name": "Variable Property Other properties",
       "scope": ["variable.other.object.property", "variable.other.property"],
       "settings": {
-        "foreground": "#ff4579",
-        "fontStyle": ""
+        "foreground": "#ff4579"
       }
     },
     {
       "name": "Variable Property Other object",
       "scope": ["variable.other.object.js"],
-      "settings": {
-        "fontStyle": ""
-      }
+      "settings": {}
     },
     {
       "name": "Entity Name Function",
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#7AA2F7",
-        "fontStyle": ""
+        "foreground": "#7AA2F7"
       }
     },
     {
@@ -906,8 +889,7 @@
       "name": "Keyword Control Conditional",
       "scope": ["keyword.control.conditional.js"],
       "settings": {
-        "foreground": "#de7df7",
-        "fontStyle": ""
+        "foreground": "#de7df7"
       }
     },
     {
@@ -1119,8 +1101,7 @@
         "support.constant.property-value.css"
       ],
       "settings": {
-        "foreground": "#ff4579",
-        "fontStyle": ""
+        "foreground": "#ff4579"
       }
     },
     {
@@ -1160,7 +1141,7 @@
         "entity.other.attribute-name.pseudo-element.css"
       ],
       "settings": {
-        "foreground": "#c792ea"
+        "foreground": "#de7df7"
       }
     },
     {
@@ -1284,24 +1265,21 @@
       "name": "JavaScript Method Declaration e.g. `constructor`",
       "scope": "meta.method.declaration storage.type.js",
       "settings": {
-        "foreground": "#7AA2F7",
-        "fontStyle": ""
+        "foreground": "#7AA2F7"
       }
     },
     {
       "name": "JavaScript Variable Declaration e.g. `let`, `const`",
       "scope": "meta.method.declaration meta.var.expr.js storage.type.js",
       "settings": {
-        "foreground": "#de7df7",
-        "fontStyle": ""
+        "foreground": "#de7df7"
       }
     },
     {
       "name": "JavaScript Class declaration",
       "scope": "storage.type.class.js",
       "settings": {
-        "foreground": "#de7df7",
-        "fontStyle": ""
+        "foreground": "#de7df7"
       }
     },
     {
@@ -1388,8 +1366,7 @@
       "name": "JavaScript Entity Name Type",
       "scope": ["entity.name.type.js", "entity.name.type.module.js"],
       "settings": {
-        "foreground": "#fffa9e",
-        "fontStyle": ""
+        "foreground": "#fffa9e"
       }
     },
     {
@@ -1969,7 +1946,7 @@
         // "source.vue text.html.vue-html meta.tag.block.any.html meta.directive.vue" // Signos de :, -, = en las directivas vue
       ],
       "settings": {
-        "foreground": "#c792eb"
+        "foreground": "#de7df7"
       }
     },
     {
