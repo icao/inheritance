@@ -35,6 +35,12 @@
   <br>
 </p>
 
+<p align="center">
+  <br>
+    <img src="https://raw.githubusercontent.com/icao/inheritance/master/assets/img_012.png" alt="banner" width="100%">
+  <br>
+</p>
+
 ### 💙 An amazing range of colors satisfying to your eyes
 
 <p align="center">
