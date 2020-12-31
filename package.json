@@ -35,6 +35,11 @@
   "contributes": {
     "themes": [
       {
+        "label": "Inheritance 🐱‍👤 TextMate",
+        "uiTheme": "vs-dark",
+        "path": "./themes/inheritance-color-theme-textmate.json"
+      },
+      {
         "label": "Inheritance 🐱‍👤",
         "uiTheme": "vs-dark",
         "path": "./themes/inheritance-color-theme.json"
