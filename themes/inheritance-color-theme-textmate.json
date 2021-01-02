@@ -347,7 +347,7 @@
     {
       "scope": "constant.language.boolean",
       "settings": {
-        "foreground": "#FF9CAC"
+        "foreground": "#ff5f8b"
       }
     },
     {
@@ -512,14 +512,13 @@
     {
       "scope": "meta.tag, punctuation.definition.tag",
       "settings": {
-        "foreground": "#ff00ae" // TODO: revisar
+        "foreground": "#ff4579" // TODO: revisar
       }
     },
     {
       "scope": "entity.name.tag",
       "settings": {
-        // "foreground": "#ff4579"
-        "foreground": "#ff6691" // TODO: revisar
+        "foreground": "#ff5f8b"
       }
     },
     {
@@ -703,7 +702,14 @@
     {
       "scope": ["keyword.control"],
       "settings": {
-        "foreground": "#00d9ff",
+        "foreground": "#ccff33",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["keyword.operator.expression"], //TODO: Revisar todos los tokens para coloreas, en la documentacion como en el tema anterior de inheritance y tokyo y material
+      "settings": {
+        "foreground": "#b37700",
         "fontStyle": "italic"
       }
     },
