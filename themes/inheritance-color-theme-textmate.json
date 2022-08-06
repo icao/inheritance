@@ -1,6 +1,7 @@
 {
   "name": "Inheritance",
   "type": "dark",
+  "semanticHighlighting": true,
   "colors": {
     "activityBar.activeBorder": "#26A5FF",
     // "activityBar.activeBorder": "#009cff", // SIG PROPUESTA DE AZUL
@@ -78,8 +79,8 @@
     "editorHint.foreground": "#ff4579", // Indicador(puntos) de modulo o archivo no encontrado(referenciado) en el codigo
     "editorHoverWidget.background": "#141414", // Color de fondo de popup de ayuda al mantener puntero en una palabra de codigo / Inspect Editor Tokens and Scopes
     "editorHoverWidget.border": "#d1dfff1a", // Color de borde de popup de sugerencia informativa
-    "editorIndentGuide.activeBackground": "#ffffff00", // Sangrias
-    "editorIndentGuide.background": "#ffffff00", // Sangria actual
+    "editorIndentGuide.activeBackground": "#26a5ff", // Sangria Actual
+    "editorIndentGuide.background": "#99a3b836", // Sangrias
     "editorLineNumber.activeForeground": "#d1dfffab", // numero de linea activa
     "editorLineNumber.foreground": "#d1dfff3a", // numero de linea
     "editorMarkerNavigation.background": "#141414", // Fondo de errores de los sig dos:
@@ -219,16 +220,16 @@
     "terminal.ansiBrightBlack": "#7992b4",
     "terminal.ansiBrightBlue": "#26A5FF",
     "terminal.ansiBrightGreen": "#8dff8d",
-    "terminal.ansiBrightMagenta": "#de7df7",
+    "terminal.ansiBrightMagenta": "#e87af7",
     "terminal.ansiBrightRed": "#ff4579",
     "terminal.ansiBrightWhite": "#f8fafd",
-    "terminal.ansiBrightYellow": "#fffa9e",
+    "terminal.ansiBrightYellow": "#fdff7a",
     "terminal.ansiBrightCyan": "#00d9ff",
     "terminal.ansiGreen": "#37c756",
-    "terminal.ansiMagenta": "#de7df7",
+    "terminal.ansiMagenta": "#e87af7",
     "terminal.ansiRed": "#ff4579",
     "terminal.ansiWhite": "#f8fafd",
-    "terminal.ansiYellow": "#fffa9e",
+    "terminal.ansiYellow": "#fdff7a",
     "terminal.ansiCyan": "#00d9ff",
     "terminal.background": "#181919",
     "terminal.foreground": "#99a3b8",
@@ -389,7 +390,7 @@
     {
       "scope": "storage.type, storage.modifier, storage.control",
       "settings": {
-        "foreground": "#de7df7"
+        "foreground": "#e87af7"
       }
     },
     {
@@ -434,7 +435,7 @@
     {
       "scope": "entity.name, entity.name.type.class, support.type, support.class, meta.use",
       "settings": {
-        "foreground": "#fffa9e"
+        "foreground": "#fdff7a"
       }
     },
     {
@@ -647,7 +648,7 @@
     {
       "scope": "support.class.component",
       "settings": {
-        "foreground": "#fffa9e"
+        "foreground": "#fdff7a"
       }
     },
     {
@@ -702,14 +703,15 @@
     {
       "scope": ["keyword.control"],
       "settings": {
-        "foreground": "#ccff33",
+        // "foreground": "#ccff33",
+        // "foreground": "#fdff7a",
         "fontStyle": "italic"
       }
     },
     {
       "scope": ["keyword.operator.expression"], //TODO: Revisar todos los tokens para coloreas, en la documentacion como en el tema anterior de inheritance y tokyo y material
       "settings": {
-        "foreground": "#b37700",
+        "foreground": "#ccff33",
         "fontStyle": "italic"
       }
     },
@@ -737,7 +739,7 @@
         "meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#de7df7"
+        "foreground": "#e87af7"
       }
     },
     {
@@ -793,7 +795,7 @@
         "meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#de7df7"
+        "foreground": "#e87af7"
       }
     },
     {

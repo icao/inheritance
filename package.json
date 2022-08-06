@@ -45,7 +45,7 @@
         "path": "./themes/inheritance-color-theme.json"
       },
       {
-        "label": "Inheritance 🐱‍👤 Focus Mode ",
+        "label": "Inheritance 🐱‍👤 Focus Mode",
         "uiTheme": "vs-dark",
         "path": "./themes/inheritance-color-theme-focus-mode.json"
       },
