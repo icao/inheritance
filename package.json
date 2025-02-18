@@ -35,9 +35,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Inheritance 🐱‍👤 TextMate",
+        "label": "Inheritance 🐱‍👤 Semantic Token",
         "uiTheme": "vs-dark",
-        "path": "./themes/inheritance-color-theme-textmate.json"
+        "path": "./themes/inheritance-color-theme-semantic-token.json"
       },
       {
         "label": "Inheritance 🐱‍👤",
