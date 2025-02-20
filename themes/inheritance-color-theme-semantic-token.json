@@ -844,7 +844,7 @@
     Declaraciones de control: return, throw, try, catch, finally
     */
     {
-      "scope": "keyword.control",
+      "scope": ["keyword.control", "keyword.control.as"],
       "settings": {
         "foreground": "#FF4579" // TODO: pendiente de ver si se queda o se separan
       }
@@ -1751,7 +1751,7 @@
 
     {
       "scope": [
-        "keyword.control.as",
+      
         "keyword.other",
 
         "expression.embbeded.vue punctuation.definition.tag",
