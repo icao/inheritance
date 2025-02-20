@@ -1795,7 +1795,7 @@
       }
     },
     {
-      "name": "test",
+      "name": "test", //TODO: Este es el token padre, debo de seccionar y reconocer los subtokens que ya documente y separar sobre todo cada uno en un arreglo se scopes diferentes - 10 0 16
       "scope": "keyword", // Se refiere a las palabras clave del lenguaje de programación, como if, else, for, while, entre otras. Son esenciales para la estructura y el flujo del código.
       "settings": {
         "foreground": "#22fd05", // Todo Pendiene por detectar en practica
