@@ -724,7 +724,7 @@
         "entity.name.type.class.value"
       ],
       "settings": {
-        "foreground": "#DE7DF7"
+        "foreground": "#FFFA9E"
       }
     },
     {
@@ -831,19 +831,25 @@
         "foreground": "#FF4579"
       }
     },
+    {
+      "name": "test", //TODO: Este es el token padre, debo de seccionar y reconocer los subtokens que ya documente y separar sobre todo cada uno en un arreglo se scopes diferentes - 10 0 16
+      "scope": "keyword", // Se refiere a las palabras clave del lenguaje de programación, como if, else, for, while, entre otras. Son esenciales para la estructura y el flujo del código.
+      "settings": {
+        "foreground": "#22fd05", // Todo Pendiene por detectar en practica
+        "fontStyle": "bold",
+        "background": "#FF4579"
+      }
+    },
     /* 
     keyword.control
-    Descripción: El token keyword.control se refiere a las palabras clave utilizadas para el control de flujo en el código. Estas palabras clave determinan la estructura y el flujo de ejecución del programa, como las condiciones, los bucles y las declaraciones de control.
 
     Ejemplos en JavaScript:
-
-    Condicionales: if, else, switch, case, default
-
-    Bucles: for, while, do, break, continue
-
-    Declaraciones de control: return, throw, try, catch, finally
+      Condicionales: if, else, switch, case, default
+      Bucles: for, while, do, break, continue
+      Declaraciones de control: return, throw, try, catch, finally
     */
     {
+      "name": " El token keyword.control se refiere a las palabras clave utilizadas para el control de flujo en el código. Estas palabras clave determinan la estructura y el flujo de ejecución del programa, como las condiciones, los bucles y las declaraciones de control.",
       "scope": ["keyword.control", "keyword.control.as"],
       "settings": {
         "foreground": "#FF4579" // TODO: pendiente de ver si se queda o se separan
@@ -859,31 +865,39 @@
     /*
     keyword.operator
 
-    Descripción: El token keyword.operator se refiere a los operadores del lenguaje de programación. Estos son símbolos o palabras clave que realizan operaciones sobre operandos. Los operadores pueden ser aritméticos, lógicos, de asignación, de comparación, etc.
-
     Ejemplos en JavaScript:
-
-    Aritméticos: +, -, *, /
-
-    Lógicos: &&, ||, !
-
-    De asignación: =, +=, -=
-
-    De comparación: ==, ===, !=, !==
+      Aritméticos: +, -, *, /
+      Lógicos: &&, ||, !
+      De asignación: =, +=, -=
+      De comparación: ==, ===, !=, !==
     */
     {
+       "name": " El token keyword.operator se refiere a los operadores del lenguaje de programación. Estos son símbolos o palabras clave que realizan operaciones sobre operandos. Los operadores pueden ser aritméticos, lógicos, de asignación, de comparación, etc.",
       "scope": [
         "keyword.operator",
+        "keyword.operator.arithmetic", 
+        "keyword.operator.assignment", 
+        "keyword.operator.comparison",
+        "keyword.operator.logical",
+        "keyword.operator.bitwise", 
+        "keyword.operator.ternary", 
+        "keyword.operator.increment", 
+        "keyword.operator.type",
+        "keyword.operator.spread",
+        "keyword.operator.nullish",
+        "keyword.operator.in",
+        "keyword.operator.of",
+        "keyword.operator.instanceof",
+        "keyword.operator.new", 
+        "keyword.operator.delete",
+        "keyword.operator.void",
+        "keyword.operator.await",
+        "keyword.operator.coalesce",
+        "keyword.operator.yield",
+        "keyword.operator.optional", 
         "keyword.operator.member",
-        "keyword.operator.new",
-        "keyword.operator.bitwise.shift", // Los operadores de desplazamiento de bits (bitwise shift) son operadores que desplazan los bits de un valor numérico hacia la izquierda o hacia la derecha., <<, >>, >>>
-
-        "keyword.operator.relational", // Representa los operadores relacionales, que se utilizan para comparar valores, como ==, !=, <, >, <=, >=.
-        "keyword.operator.assignment", // Se refiere a los operadores de asignación, que se usan para asignar valores a variables, como =, +=, -=, *=, /=, %=, etc.
-        "keyword.operator.arithmetic", // Representa los operadores aritméticos, que se utilizan para realizar operaciones matemáticas, como +, -, *, /, %,
-        "keyword.operator.bitwise", // Representa los operadores de bits, que se utilizan para realizar operaciones de bits, como &, |, ^, ~,
-        "keyword.operator.increment", // Representa los operadores de incremento y decremento, que se utilizan para realizar operaciones de incremento y decremento, como ++, --,
-        "keyword.operator.ternary" // Representa los operadores ternarios, que se utilizan para realizar operaciones condicionales, como ? :,
+        "keyword.operator.relational" 
+        // TODO: Separar algunos operadores como la asignacion, ver si empatar en color con el ; (salto de linea)
       ],
       "settings": {
         "foreground": "#FF4579"
@@ -1176,6 +1190,7 @@
         "punctuation.definition.parameters.begin",
         "punctuation.definition.parameters.end",
         "punctuation.separator.parameter",
+        "punctuation.separator.namespace",
         "punctuation.accessor",
         "punctuation.terminator"
       ],
@@ -1251,7 +1266,7 @@
       "scope": [
         "meta.brace.round",
         "meta.brace.square",
-        "keyword.operator.type.annotation",
+        "keyword.operator.type.annotation", // Representa los tipos de anotación, que se utilizan para dar información sobre los tipos de datos en el código, como :: o :: <type>
         "meta.type storage.modifier.array"
       ],
       "settings": {
@@ -1751,7 +1766,6 @@
 
     {
       "scope": [
-      
         "keyword.other",
 
         "expression.embbeded.vue punctuation.definition.tag",
@@ -1794,15 +1808,7 @@
         "background": "#FF4579"
       }
     },
-    {
-      "name": "test", //TODO: Este es el token padre, debo de seccionar y reconocer los subtokens que ya documente y separar sobre todo cada uno en un arreglo se scopes diferentes - 10 0 16
-      "scope": "keyword", // Se refiere a las palabras clave del lenguaje de programación, como if, else, for, while, entre otras. Son esenciales para la estructura y el flujo del código.
-      "settings": {
-        "foreground": "#22fd05", // Todo Pendiene por detectar en practica
-        "fontStyle": "bold",
-        "background": "#FF4579"
-      }
-    },
+
     {
       "name": "Support Type Property Name & entity name tags",
       "scope": [
